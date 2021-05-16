@@ -5,4 +5,4 @@ A dataset is given of different bank clients on the basis of which we need to de
 
 After Frauds are detected, on their basis of information, each customer's probability of cheating(fraud) is calculated using Artificial Neural Network (ANN), Supervised Learning Algorithm.
 
-Tools Used: Pandas, Numpy, Scikit-Learn, MiniSom, Pylab, Tensorflow, Keras
+Tools Used: Pandas, Numpy, Scikit-Learn, MiniSom, Pylab, Tensorflow, Keras.
